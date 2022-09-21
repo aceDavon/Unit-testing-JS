@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://livedemo.com)git push origin 
 
 
 ## Getting Started
@@ -40,15 +40,14 @@ To get a local copy up and running follow these simple example steps.
 
 -Clone this repository with
 
-<code> git clone git@github.com:aceDavon/LeaderBoard.git </code>
+<code> git clone git@github.com:aceDavon/Unit-testing-JS.git </code>
 using your terminal or command line.
 
 -Change to the project directory by entering :
 
-<code>cd LeaderBoard</code>, in the terminal.
+<code>cd Unit-testing-JS</code>, in the terminal.
 
 -run code to open it in vscode.
-However, there are some project requisites required for this project to run properly 
 
 
 ## Authors
