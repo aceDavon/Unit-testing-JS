@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> An Educational project aimed at learning how to setup and write TDD javascript tests for projects
 
 
 ## Built With
@@ -18,39 +18,45 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**In Test Driven Development Tests are created before actual code.
+Then developers run the (UNIT) tests and Tests fail (because there is no code)
+Then developer Write the code to pass the tests and Run the tests again after writing actual code.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Built With
 
-### Setup
+- HTML and CSS 
+- Javascript ES6
+- GitFlow
 
-### Install
+## Live URL
 
-### Usage
+[deployment](https://acedavon.github.io/Unit-testing-JS)
 
-### Run tests
+## How to use and run this project
+>To get a local copy up and running follow these simple example steps.
 
-### Deployment
+-Clone this repository with
 
+<code> git clone git@github.com:aceDavon/LeaderBoard.git </code>
+using your terminal or command line.
+
+-Change to the project directory by entering :
+
+<code>cd LeaderBoard</code>, in the terminal.
+
+-run code to open it in vscode.
+However, there are some project requisites required for this project to run properly 
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aceDavon](https://github.com/aceDavon)
+- Twitter: [@sharkleshevon](https://twitter.com/sharkleshevon)
 
 ## 🤝 Contributing
 
@@ -70,6 +76,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
