@@ -11,11 +11,6 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)git push origin 
-
-
 ## Getting Started
 
 **In Test Driven Development Tests are created before actual code.
